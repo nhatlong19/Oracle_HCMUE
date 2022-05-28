@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ContextStoreContainer" CdmEntityContainer="spaceTeamoracle">
+    <EntitySetMapping Name="CHINHANHs">
+      <EntityTypeMapping TypeName="Context.CHINHANH">
+        <MappingFragment StoreEntitySet="CHINHANH">
+          <ScalarProperty Name="MACHINHANH" ColumnName="MACHINHANH" />
+          <ScalarProperty Name="TENCHINHANH" ColumnName="TENCHINHANH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHITIETHDs">
+      <EntityTypeMapping TypeName="Context.CHITIETHD">
+        <MappingFragment StoreEntitySet="CHITIETHD">
+          <ScalarProperty Name="MAHD" ColumnName="MAHD" />
+          <ScalarProperty Name="MAHH" ColumnName="MAHH" />
+          <ScalarProperty Name="DONGIA" ColumnName="DONGIA" />
+          <ScalarProperty Name="GIAMGIA" ColumnName="GIAMGIA" />
+          <ScalarProperty Name="SOLUONG" ColumnName="SOLUONG" />
+          <ScalarProperty Name="KICHCO" ColumnName="KICHCO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHUCVUs">
+      <EntityTypeMapping TypeName="Context.CHUCVU">
+        <MappingFragment StoreEntitySet="CHUCVU">
+          <ScalarProperty Name="MACHUCVU" ColumnName="MACHUCVU" />
+          <ScalarProperty Name="TENCHUCVU" ColumnName="TENCHUCVU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HANGHOAs">
+      <EntityTypeMapping TypeName="Context.HANGHOA">
+        <MappingFragment StoreEntitySet="HANGHOA">
+          <ScalarProperty Name="MAHH" ColumnName="MAHH" />
+          <ScalarProperty Name="TENHH" ColumnName="TENHH" />
+          <ScalarProperty Name="MALOAI" ColumnName="MALOAI" />
+          <ScalarProperty Name="SOLUONG" ColumnName="SOLUONG" />
+          <ScalarProperty Name="DONGIA" ColumnName="DONGIA" />
+          <ScalarProperty Name="GIAMGIA" ColumnName="GIAMGIA" />
+          <ScalarProperty Name="MOTA" ColumnName="MOTA" />
+          <ScalarProperty Name="MANCC" ColumnName="MANCC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HOADONs">
+      <EntityTypeMapping TypeName="Context.HOADON">
+        <MappingFragment StoreEntitySet="HOADON">
+          <ScalarProperty Name="MAHD" ColumnName="MAHD" />
+          <ScalarProperty Name="MANV" ColumnName="MANV" />
+          <ScalarProperty Name="MACN" ColumnName="MACN" />
+          <ScalarProperty Name="MAKH" ColumnName="MAKH" />
+          <ScalarProperty Name="HOTEN" ColumnName="HOTEN" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="GHICHU" ColumnName="GHICHU" />
+          <ScalarProperty Name="NGAYTAO" ColumnName="NGAYTAO" />
+          <ScalarProperty Name="TONGTIENHANG" ColumnName="TONGTIENHANG" />
+          <ScalarProperty Name="TONGTHUCTHU" ColumnName="TONGTHUCTHU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KHACHHANGs">
+      <EntityTypeMapping TypeName="Context.KHACHHANG">
+        <MappingFragment StoreEntitySet="KHACHHANG">
+          <ScalarProperty Name="MAKH" ColumnName="MAKH" />
+          <ScalarProperty Name="HOTEN" ColumnName="HOTEN" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="DIENTHOAI" ColumnName="DIENTHOAI" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="GIOITINH" ColumnName="GIOITINH" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOAIs">
+      <EntityTypeMapping TypeName="Context.LOAI">
+        <MappingFragment StoreEntitySet="LOAI">
+          <ScalarProperty Name="MALOAI" ColumnName="MALOAI" />
+          <ScalarProperty Name="TENLOAI" ColumnName="TENLOAI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHACUNGCAPs">
+      <EntityTypeMapping TypeName="Context.NHACUNGCAP">
+        <MappingFragment StoreEntitySet="NHACUNGCAP">
+          <ScalarProperty Name="MANCC" ColumnName="MANCC" />
+          <ScalarProperty Name="TENCONGTY" ColumnName="TENCONGTY" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="DIENTHOAI" ColumnName="DIENTHOAI" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHANVIENs">
+      <EntityTypeMapping TypeName="Context.NHANVIEN">
+        <MappingFragment StoreEntitySet="NHANVIEN">
+          <ScalarProperty Name="MANV" ColumnName="MANV" />
+          <ScalarProperty Name="HOTEN" ColumnName="HOTEN" />
+          <ScalarProperty Name="GIOITINH" ColumnName="GIOITINH" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="TENDN" ColumnName="TENDN" />
+          <ScalarProperty Name="MATKHAU" ColumnName="MATKHAU" />
+          <ScalarProperty Name="LUONG" ColumnName="LUONG" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="MACHINHANH" ColumnName="MACHINHANH" />
+          <ScalarProperty Name="MACHUCVU" ColumnName="MACHUCVU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

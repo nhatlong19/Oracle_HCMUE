@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Model.Store" Provider="Oracle.ManagedDataAccess.Client" ProviderManifestToken="18.0" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="CHINHANH">
+          <Key>
+            <PropertyRef Name="MACHINHANH" />
+          </Key>
+          <Property Name="MACHINHANH" Type="number" Precision="38" Scale="0" Nullable="false" />
+          <Property Name="TENCHINHANH" Type="nvarchar2" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CHITIETHD">
+          <Key>
+            <PropertyRef Name="MAHD" />
+            <PropertyRef Name="MAHH" />
+          </Key>
+          <Property Name="MAHD" Type="number" Precision="10" Scale="0" Nullable="false" />
+          <Property Name="MAHH" Type="number" Precision="10" Scale="0" Nullable="false" />
+          <Property Name="DONGIA" Type="number" Precision="10" Scale="1" />
+          <Property Name="GIAMGIA" Type="number" Precision="10" Scale="1" />
+          <Property Name="SOLUONG" Type="number" Precision="10" Scale="0" />
+        </EntityType>
+        <EntityType Name="CHUCVU">
+          <Key>
+            <PropertyRef Name="MACHUCVU" />
+          </Key>
+          <Property Name="MACHUCVU" Type="number" Precision="38" Scale="0" Nullable="false" />
+          <Property Name="TENCHUCVU" Type="nvarchar2" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="HANGHOA">
+          <Key>
+            <PropertyRef Name="MAHH" />
+          </Key>
+          <Property Name="MAHH" Type="number" Precision="38" Scale="0" Nullable="false" />
+          <Property Name="TENHH" Type="nvarchar2" MaxLength="60" Nullable="false" />
+          <Property Name="MALOAI" Type="number" Precision="38" Scale="0" Nullable="false" />
+          <Property Name="SOLUONG" Type="number" Precision="10" Scale="0" />
+          <Property Name="DONGIA" Type="float" Precision="126" Scale="0" />
+          <Property Name="GIAMGIA" Type="float" Precision="126" Scale="0" />
+          <Property Name="MOTA" Type="nvarchar2" MaxLength="1000" />
+          <Property Name="MANCC" Type="number" Precision="38" Scale="0" Nullable="false" />
+        </EntityType>
+        <EntityType Name="HOADON">
+          <Key>
+            <PropertyRef Name="MAHD" />
+          </Key>
+          <Property Name="MAHD" Type="number" Precision="10" Scale="0" Nullable="false" />
+          <Property Name="MANV" Type="number" Precision="38" Scale="0" Nullable="false" />
+          <Property Name="MACN" Type="number" Precision="38" Scale="0" Nullable="false" />
+          <Property Name="MAKH" Type="number" Precision="10" Scale="0" />
+          <Property Name="HOTEN" Type="nvarchar2" MaxLength="50" />
+          <Property Name="DIACHI" Type="nvarchar2" MaxLength="60" />
+          <Property Name="SDT" Type="varchar2" MaxLength="20" />
+          <Property Name="GHICHU" Type="nvarchar2" MaxLength="50" />
+          <Property Name="NGAYTAO" Type="date" Nullable="false" />
+          <Property Name="TONGTIENHANG" Type="float" Precision="126" Scale="0" />
+          <Property Name="TONGTHUCTHU" Type="float" Precision="126" Scale="0" />
+        </EntityType>
+        <EntityType Name="KHACHHANG">
+          <Key>
+            <PropertyRef Name="MAKH" />
+          </Key>
+          <Property Name="MAKH" Type="number" Precision="10" Scale="0" Nullable="false" />
+          <Property Name="HOTEN" Type="nvarchar2" MaxLength="50" />
+          <Property Name="DIACHI" Type="nvarchar2" MaxLength="60" />
+          <Property Name="DIENTHOAI" Type="varchar2" MaxLength="24" />
+          <Property Name="EMAIL" Type="varchar2" MaxLength="50" />
+          <Property Name="GIOITINH" Type="number" Precision="1" Scale="0" Nullable="false" />
+          <Property Name="NGAYSINH" Type="date" />
+        </EntityType>
+        <EntityType Name="LOAI">
+          <Key>
+            <PropertyRef Name="MALOAI" />
+          </Key>
+          <Property Name="MALOAI" Type="number" Precision="38" Scale="0" Nullable="false" />
+          <Property Name="TENLOAI" Type="nvarchar2" MaxLength="30" Nullable="false" />
+        </EntityType>
+        <EntityType Name="NHACUNGCAP">
+          <Key>
+            <PropertyRef Name="MANCC" />
+          </Key>
+          <Property Name="MANCC" Type="number" Precision="38" Scale="0" Nullable="false" />
+          <Property Name="TENCONGTY" Type="nvarchar2" MaxLength="50" />
+          <Property Name="EMAIL" Type="varchar2" MaxLength="50" />
+          <Property Name="DIENTHOAI" Type="varchar2" MaxLength="24" />
+          <Property Name="DIACHI" Type="nvarchar2" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="NHANVIEN">
+          <Key>
+            <PropertyRef Name="MANV" />
+          </Key>
+          <Property Name="MANV" Type="number" Precision="38" Scale="0" Nullable="false" />
+          <Property Name="HOTEN" Type="nvarchar2" MaxLength="100" Nullable="false" />
+          <Property Name="GIOITINH" Type="number" Precision="1" Scale="0" Nullable="false" />
+          <Property Name="NGAYSINH" Type="date" />
+          <Property Name="SDT" Type="varchar2" MaxLength="24" />
+          <Property Name="DIACHI" Type="nvarchar2" MaxLength="100" />
+          <Property Name="TENDN" Type="varchar2" MaxLength="20" Nullable="false" />
+          <Property Name="MATKHAU" Type="long raw" />
+          <Property Name="LUONG" Type="clob" />
+          <Property Name="EMAIL" Type="varchar2" MaxLength="100" />
+          <Property Name="MACHINHANH" Type="number" Precision="38" Scale="0" Nullable="false" />
+          <Property Name="MACHUCVU" Type="number" Precision="38" Scale="0" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_CTHD_HD">
+          <End Role="HOADON" Type="Self.HOADON" Multiplicity="1" />
+          <End Role="CHITIETHD" Type="Self.CHITIETHD" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="HOADON">
+              <PropertyRef Name="MAHD" />
+            </Principal>
+            <Dependent Role="CHITIETHD">
+              <PropertyRef Name="MAHD" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CTHD_HH">
+          <End Role="HANGHOA" Type="Self.HANGHOA" Multiplicity="1" />
+          <End Role="CHITIETHD" Type="Self.CHITIETHD" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="HANGHOA">
+              <PropertyRef Name="MAHH" />
+            </Principal>
+            <Dependent Role="CHITIETHD">
+              <PropertyRef Name="MAHH" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_HD_CN">
+          <End Role="CHINHANH" Type="Self.CHINHANH" Multiplicity="1" />
+          <End Role="HOADON" Type="Self.HOADON" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CHINHANH">
+              <PropertyRef Name="MACHINHANH" />
+            </Principal>
+            <Dependent Role="HOADON">
+              <PropertyRef Name="MACN" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_HD_KH">
+          <End Role="KHACHHANG" Type="Self.KHACHHANG" Multiplicity="0..1" />
+          <End Role="HOADON" Type="Self.HOADON" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="KHACHHANG">
+              <PropertyRef Name="MAKH" />
+            </Principal>
+            <Dependent Role="HOADON">
+              <PropertyRef Name="MAKH" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_HD_NV">
+          <End Role="NHANVIEN" Type="Self.NHANVIEN" Multiplicity="1" />
+          <End Role="HOADON" Type="Self.HOADON" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="NHANVIEN">
+              <PropertyRef Name="MANV" />
+            </Principal>
+            <Dependent Role="HOADON">
+              <PropertyRef Name="MANV" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_HH_LOAI">
+          <End Role="LOAI" Type="Self.LOAI" Multiplicity="1" />
+          <End Role="HANGHOA" Type="Self.HANGHOA" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="LOAI">
+              <PropertyRef Name="MALOAI" />
+            </Principal>
+            <Dependent Role="HANGHOA">
+              <PropertyRef Name="MALOAI" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_HH_NCC">
+          <End Role="NHACUNGCAP" Type="Self.NHACUNGCAP" Multiplicity="1" />
+          <End Role="HANGHOA" Type="Self.HANGHOA" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="NHACUNGCAP">
+              <PropertyRef Name="MANCC" />
+            </Principal>
+            <Dependent Role="HANGHOA">
+              <PropertyRef Name="MANCC" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_NV_CN">
+          <End Role="CHINHANH" Type="Self.CHINHANH" Multiplicity="1" />
+          <End Role="NHANVIEN" Type="Self.NHANVIEN" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CHINHANH">
+              <PropertyRef Name="MACHINHANH" />
+            </Principal>
+            <Dependent Role="NHANVIEN">
+              <PropertyRef Name="MACHINHANH" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_NV_CV">
+          <End Role="CHUCVU" Type="Self.CHUCVU" Multiplicity="1" />
+          <End Role="NHANVIEN" Type="Self.NHANVIEN" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CHUCVU">
+              <PropertyRef Name="MACHUCVU" />
+            </Principal>
+            <Dependent Role="NHANVIEN">
+              <PropertyRef Name="MACHUCVU" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="ModelStoreContainer">
+          <EntitySet Name="CHINHANH" EntityType="Self.CHINHANH" Schema="SPACETEAM_3" store:Type="Tables" />
+          <EntitySet Name="CHITIETHD" EntityType="Self.CHITIETHD" Schema="SPACETEAM_3" store:Type="Tables" />
+          <EntitySet Name="CHUCVU" EntityType="Self.CHUCVU" Schema="SPACETEAM_3" store:Type="Tables" />
+          <EntitySet Name="HANGHOA" EntityType="Self.HANGHOA" Schema="SPACETEAM_3" store:Type="Tables" />
+          <EntitySet Name="HOADON" EntityType="Self.HOADON" Schema="SPACETEAM_3" store:Type="Tables" />
+          <EntitySet Name="KHACHHANG" EntityType="Self.KHACHHANG" Schema="SPACETEAM_3" store:Type="Tables" />
+          <EntitySet Name="LOAI" EntityType="Self.LOAI" Schema="SPACETEAM_3" store:Type="Tables" />
+          <EntitySet Name="NHACUNGCAP" EntityType="Self.NHACUNGCAP" Schema="SPACETEAM_3" store:Type="Tables" />
+          <EntitySet Name="NHANVIEN" EntityType="Self.NHANVIEN" Schema="SPACETEAM_3" store:Type="Tables" />
+          <AssociationSet Name="FK_CTHD_HD" Association="Self.FK_CTHD_HD">
+            <End Role="HOADON" EntitySet="HOADON" />
+            <End Role="CHITIETHD" EntitySet="CHITIETHD" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CTHD_HH" Association="Self.FK_CTHD_HH">
+            <End Role="HANGHOA" EntitySet="HANGHOA" />
+            <End Role="CHITIETHD" EntitySet="CHITIETHD" />
+          </AssociationSet>
+          <AssociationSet Name="FK_HD_CN" Association="Self.FK_HD_CN">
+            <End Role="CHINHANH" EntitySet="CHINHANH" />
+            <End Role="HOADON" EntitySet="HOADON" />
+          </AssociationSet>
+          <AssociationSet Name="FK_HD_KH" Association="Self.FK_HD_KH">
+            <End Role="KHACHHANG" EntitySet="KHACHHANG" />
+            <End Role="HOADON" EntitySet="HOADON" />
+          </AssociationSet>
+          <AssociationSet Name="FK_HD_NV" Association="Self.FK_HD_NV">
+            <End Role="NHANVIEN" EntitySet="NHANVIEN" />
+            <End Role="HOADON" EntitySet="HOADON" />
+          </AssociationSet>
+          <AssociationSet Name="FK_HH_LOAI" Association="Self.FK_HH_LOAI">
+            <End Role="LOAI" EntitySet="LOAI" />
+            <End Role="HANGHOA" EntitySet="HANGHOA" />
+          </AssociationSet>
+          <AssociationSet Name="FK_HH_NCC" Association="Self.FK_HH_NCC">
+            <End Role="NHACUNGCAP" EntitySet="NHACUNGCAP" />
+            <End Role="HANGHOA" EntitySet="HANGHOA" />
+          </AssociationSet>
+          <AssociationSet Name="FK_NV_CN" Association="Self.FK_NV_CN">
+            <End Role="CHINHANH" EntitySet="CHINHANH" />
+            <End Role="NHANVIEN" EntitySet="NHANVIEN" />
+          </AssociationSet>
+          <AssociationSet Name="FK_NV_CV" Association="Self.FK_NV_CV">
+            <End Role="CHUCVU" EntitySet="CHUCVU" />
+            <End Role="NHANVIEN" EntitySet="NHANVIEN" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="DOUMA" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="DOUMAContainer" annotation:LazyLoadingEnabled="true"></EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs" Space="C-S">
+        <Alias Key="Model" Value="DOUMA" />
+        <Alias Key="Target" Value="DOUMA.Store" />
+        <EntityContainerMapping CdmEntityContainer="DOUMAContainer" StorageEntityContainer="DOUMATargetContainer"></EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

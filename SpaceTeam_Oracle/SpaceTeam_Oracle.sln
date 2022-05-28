@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "SpaceTeam_Oracle\GUI.csproj", "{1E641DD0-C762-4327-8A5A-15152E6065EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E641DD0-C762-4327-8A5A-15152E6065EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E641DD0-C762-4327-8A5A-15152E6065EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E641DD0-C762-4327-8A5A-15152E6065EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E641DD0-C762-4327-8A5A-15152E6065EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B741963F-9B34-42E9-BFDC-7D6C4B69214F}
+	EndGlobalSection
+EndGlobal

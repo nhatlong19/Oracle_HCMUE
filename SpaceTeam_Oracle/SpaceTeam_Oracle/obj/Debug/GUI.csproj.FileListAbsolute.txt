@@ -1,0 +1,463 @@
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.Form1.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucAdmin.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DiemDanh.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\Source Oracle\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csprojAssemblyReference.cache
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DiemDanh.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+G:\HK2_năm 3\oracle\Oracle_SpaceTeam-develop\Oracle_SpaceTeam-develop\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Chart.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\Oracle_SpaceTeam-Nhat2\Oracle_SpaceTeam-Nhat2\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csprojAssemblyReference.cache
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csprojAssemblyReference.cache
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+G:\HK2_năm 3\oracle\test\Oracle_SpaceTeam - Copy\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder\Oracle_SpaceTeam-Nhatdt\Oracle_SpaceTeam-Nhatdt\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+C:\Users\anhng\Desktop\DL_Oracle\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+C:\Users\anhng\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Quoc Cuong\Desktop\New folder (2)\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+C:\Users\duong\OneDrive\Desktop\Oracle_SpaceTeam-task-Author\Oracle_SpaceTeam-task-Author\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+C:\Users\duong\OneDrive\Desktop\New folder\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.AssemblyReference.cache
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.AssemblyReference.cache
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+G:\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe.config
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.exe
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\SpaceTeam_Oracle.pdb
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.dll
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.dll
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.xml
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\bin\Debug\EntityFramework.SqlServer.xml
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.Properties.Resources.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DangNhap.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChiNhanh.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.QLChucVu.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.DanhMucAdmin.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.SpaceTeam.DanhMucNV.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachDonHang.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DanhSachHangHoaDaBan.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.DoanhThu.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.TaoDonHang.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucNV.ThongTinCaNhan.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.SpaceTeam.DanhMucQuanLy.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.NhapKho.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLKhachHang.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhaCungCap.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.UI.QLNhanVien.resources
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.CopyComplete
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.exe
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\SpaceTeam_Oracle.pdb
+D:\BT_Oracle\Oracle_Nhom_SpaceTeam\Oracle_SpaceTeam\SpaceTeam_Oracle\SpaceTeam_Oracle\obj\Debug\GUI.csproj.AssemblyReference.cache

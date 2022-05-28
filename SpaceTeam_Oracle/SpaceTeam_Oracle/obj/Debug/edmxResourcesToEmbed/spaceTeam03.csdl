@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="spaceTeamoracle" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CHINHANH">
+    <Key>
+      <PropertyRef Name="MACHINHANH" />
+    </Key>
+    <Property Name="MACHINHANH" Type="Decimal" Precision="38" Scale="0" Nullable="false" />
+    <Property Name="TENCHINHANH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="NHANVIENs" Relationship="spaceTeamoracle.FK_NV_CN" FromRole="CHINHANH" ToRole="NHANVIEN" />
+    <NavigationProperty Name="HOADONs" Relationship="spaceTeamoracle.FK_HD_CN" FromRole="CHINHANH" ToRole="HOADON" />
+  </EntityType>
+  <EntityContainer Name="spaceTeam03" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CHINHANHs" EntityType="Self.CHINHANH" />
+    <EntitySet Name="CHUCVUs" EntityType="spaceTeamoracle.CHUCVU" />
+    <EntitySet Name="LOAIs" EntityType="spaceTeamoracle.LOAI" />
+    <EntitySet Name="NHACUNGCAPs" EntityType="spaceTeamoracle.NHACUNGCAP" />
+    <EntitySet Name="NHANVIENs" EntityType="spaceTeamoracle.NHANVIEN" />
+    <AssociationSet Name="FK_NV_CN" Association="spaceTeamoracle.FK_NV_CN">
+      <End Role="CHINHANH" EntitySet="CHINHANHs" />
+      <End Role="NHANVIEN" EntitySet="NHANVIENs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NV_CV" Association="spaceTeamoracle.FK_NV_CV">
+      <End Role="CHUCVU" EntitySet="CHUCVUs" />
+      <End Role="NHANVIEN" EntitySet="NHANVIENs" />
+    </AssociationSet>
+    <EntitySet Name="CHITIETHDs" EntityType="spaceTeamoracle.CHITIETHD" />
+    <EntitySet Name="HANGHOAs" EntityType="spaceTeamoracle.HANGHOA" />
+    <EntitySet Name="HOADONs" EntityType="spaceTeamoracle.HOADON" />
+    <EntitySet Name="KHACHHANGs" EntityType="spaceTeamoracle.KHACHHANG" />
+    <AssociationSet Name="FK_HD_CN" Association="spaceTeamoracle.FK_HD_CN">
+      <End Role="CHINHANH" EntitySet="CHINHANHs" />
+      <End Role="HOADON" EntitySet="HOADONs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CTHD_HD" Association="spaceTeamoracle.FK_CTHD_HD">
+      <End Role="HOADON" EntitySet="HOADONs" />
+      <End Role="CHITIETHD" EntitySet="CHITIETHDs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CTHD_HH" Association="spaceTeamoracle.FK_CTHD_HH">
+      <End Role="HANGHOA" EntitySet="HANGHOAs" />
+      <End Role="CHITIETHD" EntitySet="CHITIETHDs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HH_LOAI" Association="spaceTeamoracle.FK_HH_LOAI">
+      <End Role="LOAI" EntitySet="LOAIs" />
+      <End Role="HANGHOA" EntitySet="HANGHOAs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HH_NCC" Association="spaceTeamoracle.FK_HH_NCC">
+      <End Role="NHACUNGCAP" EntitySet="NHACUNGCAPs" />
+      <End Role="HANGHOA" EntitySet="HANGHOAs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HD_KH" Association="spaceTeamoracle.FK_HD_KH">
+      <End Role="KHACHHANG" EntitySet="KHACHHANGs" />
+      <End Role="HOADON" EntitySet="HOADONs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HD_NV" Association="spaceTeamoracle.FK_HD_NV">
+      <End Role="NHANVIEN" EntitySet="NHANVIENs" />
+      <End Role="HOADON" EntitySet="HOADONs" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CHUCVU">
+    <Key>
+      <PropertyRef Name="MACHUCVU" />
+    </Key>
+    <Property Name="MACHUCVU" Type="Decimal" Nullable="false" Precision="38" Scale="0" />
+    <Property Name="TENCHUCVU" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="NHANVIENs" Relationship="spaceTeamoracle.FK_NV_CV" FromRole="CHUCVU" ToRole="NHANVIEN" />
+  </EntityType>
+  <EntityType Name="LOAI">
+    <Key>
+      <PropertyRef Name="MALOAI" />
+    </Key>
+    <Property Name="MALOAI" Type="Decimal" Nullable="false" Precision="38" Scale="0" />
+    <Property Name="TENLOAI" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="HANGHOAs" Relationship="spaceTeamoracle.FK_HH_LOAI" FromRole="LOAI" ToRole="HANGHOA" />
+  </EntityType>
+  <EntityType Name="NHACUNGCAP">
+    <Key>
+      <PropertyRef Name="MANCC" />
+    </Key>
+    <Property Name="MANCC" Type="Decimal" Nullable="false" Precision="38" Scale="0" />
+    <Property Name="TENCONGTY" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EMAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DIENTHOAI" Type="String" MaxLength="24" FixedLength="false" Unicode="false" />
+    <Property Name="DIACHI" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="HANGHOAs" Relationship="spaceTeamoracle.FK_HH_NCC" FromRole="NHACUNGCAP" ToRole="HANGHOA" />
+  </EntityType>
+  <EntityType Name="NHANVIEN">
+    <Key>
+      <PropertyRef Name="MANV" />
+    </Key>
+    <Property Name="MANV" Type="Decimal" Nullable="false" Precision="38" Scale="0" />
+    <Property Name="HOTEN" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="GIOITINH" Type="Boolean" Nullable="false" />
+    <Property Name="NGAYSINH" Type="DateTime" />
+    <Property Name="SDT" Type="String" MaxLength="24" FixedLength="false" Unicode="false" />
+    <Property Name="DIACHI" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="TENDN" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="MATKHAU" Type="Binary" MaxLength="2147483647" FixedLength="false" />
+    <Property Name="LUONG" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="EMAIL" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="MACHINHANH" Type="Decimal" Nullable="false" Precision="38" Scale="0" />
+    <Property Name="MACHUCVU" Type="Decimal" Nullable="false" Precision="38" Scale="0" />
+    <NavigationProperty Name="CHINHANH" Relationship="spaceTeamoracle.FK_NV_CN" FromRole="NHANVIEN" ToRole="CHINHANH" />
+    <NavigationProperty Name="CHUCVU" Relationship="spaceTeamoracle.FK_NV_CV" FromRole="NHANVIEN" ToRole="CHUCVU" />
+    <NavigationProperty Name="HOADONs" Relationship="spaceTeamoracle.FK_HD_NV" FromRole="NHANVIEN" ToRole="HOADON" />
+  </EntityType>
+  <Association Name="FK_NV_CN">
+    <End Type="spaceTeamoracle.CHINHANH" Role="CHINHANH" Multiplicity="1" />
+    <End Type="spaceTeamoracle.NHANVIEN" Role="NHANVIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CHINHANH">
+        <PropertyRef Name="MACHINHANH" />
+      </Principal>
+      <Dependent Role="NHANVIEN">
+        <PropertyRef Name="MACHINHANH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NV_CV">
+    <End Type="spaceTeamoracle.CHUCVU" Role="CHUCVU" Multiplicity="1" />
+    <End Type="spaceTeamoracle.NHANVIEN" Role="NHANVIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CHUCVU">
+        <PropertyRef Name="MACHUCVU" />
+      </Principal>
+      <Dependent Role="NHANVIEN">
+        <PropertyRef Name="MACHUCVU" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="CHITIETHD">
+    <Key>
+      <PropertyRef Name="MAHD" />
+      <PropertyRef Name="MAHH" />
+    </Key>
+    <Property Name="MAHD" Type="Int32" Nullable="false" />
+    <Property Name="MAHH" Type="Decimal" Nullable="false" Precision="38" Scale="0" />
+    <Property Name="SOLUONG" Type="Int32" />
+    <NavigationProperty Name="HOADON" Relationship="spaceTeamoracle.FK_CTHD_HD" FromRole="CHITIETHD" ToRole="HOADON" />
+    <NavigationProperty Name="HANGHOA" Relationship="spaceTeamoracle.FK_CTHD_HH" FromRole="CHITIETHD" ToRole="HANGHOA" />
+  </EntityType>
+  <EntityType Name="HANGHOA">
+    <Key>
+      <PropertyRef Name="MAHH" />
+    </Key>
+    <Property Name="MAHH" Type="Decimal" Nullable="false" Precision="38" Scale="0" />
+    <Property Name="TENHH" Type="String" Nullable="false" MaxLength="60" FixedLength="false" Unicode="true" />
+    <Property Name="MALOAI" Type="Decimal" Nullable="false" Precision="38" Scale="0" />
+    <Property Name="SOLUONG" Type="Decimal" Precision="38" Scale="0" />
+    <Property Name="DONGIA" Type="Decimal" Precision="38" Scale="0" />
+    <Property Name="GIAMGIA" Type="Decimal" Precision="38" Scale="0" />
+    <Property Name="MOTA" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="MANCC" Type="Decimal" Nullable="false" Precision="38" Scale="0" />
+    <Property Name="KICHCO" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="CHITIETHDs" Relationship="spaceTeamoracle.FK_CTHD_HH" FromRole="HANGHOA" ToRole="CHITIETHD" />
+    <NavigationProperty Name="LOAI" Relationship="spaceTeamoracle.FK_HH_LOAI" FromRole="HANGHOA" ToRole="LOAI" />
+    <NavigationProperty Name="NHACUNGCAP" Relationship="spaceTeamoracle.FK_HH_NCC" FromRole="HANGHOA" ToRole="NHACUNGCAP" />
+  </EntityType>
+  <EntityType Name="HOADON">
+    <Key>
+      <PropertyRef Name="MAHD" />
+    </Key>
+    <Property Name="MAHD" Type="Int32" Nullable="false" />
+    <Property Name="MANV" Type="Decimal" Nullable="false" Precision="38" Scale="0" />
+    <Property Name="MACN" Type="Decimal" Nullable="false" Precision="38" Scale="0" />
+    <Property Name="MAKH" Type="Int32" />
+    <Property Name="HOTEN" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DIACHI" Type="String" MaxLength="60" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="GHICHU" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NGAYTAO" Type="DateTime" Nullable="false" />
+    <Property Name="GIAMGIA" Type="Decimal" Precision="10" Scale="1" />
+    <NavigationProperty Name="CHINHANH" Relationship="spaceTeamoracle.FK_HD_CN" FromRole="HOADON" ToRole="CHINHANH" />
+    <NavigationProperty Name="CHITIETHDs" Relationship="spaceTeamoracle.FK_CTHD_HD" FromRole="HOADON" ToRole="CHITIETHD" />
+    <NavigationProperty Name="KHACHHANG" Relationship="spaceTeamoracle.FK_HD_KH" FromRole="HOADON" ToRole="KHACHHANG" />
+    <NavigationProperty Name="NHANVIEN" Relationship="spaceTeamoracle.FK_HD_NV" FromRole="HOADON" ToRole="NHANVIEN" />
+  </EntityType>
+  <EntityType Name="KHACHHANG">
+    <Key>
+      <PropertyRef Name="MAKH" />
+    </Key>
+    <Property Name="MAKH" Type="Int32" Nullable="false" />
+    <Property Name="HOTEN" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DIACHI" Type="String" MaxLength="60" FixedLength="false" Unicode="true" />
+    <Property Name="DIENTHOAI" Type="String" MaxLength="24" FixedLength="false" Unicode="false" />
+    <Property Name="EMAIL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="GIOITINH" Type="Boolean" Nullable="false" />
+    <Property Name="NGAYSINH" Type="DateTime" />
+    <NavigationProperty Name="HOADONs" Relationship="spaceTeamoracle.FK_HD_KH" FromRole="KHACHHANG" ToRole="HOADON" />
+  </EntityType>
+  <Association Name="FK_HD_CN">
+    <End Type="spaceTeamoracle.CHINHANH" Role="CHINHANH" Multiplicity="1" />
+    <End Type="spaceTeamoracle.HOADON" Role="HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CHINHANH">
+        <PropertyRef Name="MACHINHANH" />
+      </Principal>
+      <Dependent Role="HOADON">
+        <PropertyRef Name="MACN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CTHD_HD">
+    <End Type="spaceTeamoracle.HOADON" Role="HOADON" Multiplicity="1" />
+    <End Type="spaceTeamoracle.CHITIETHD" Role="CHITIETHD" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOADON">
+        <PropertyRef Name="MAHD" />
+      </Principal>
+      <Dependent Role="CHITIETHD">
+        <PropertyRef Name="MAHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CTHD_HH">
+    <End Type="spaceTeamoracle.HANGHOA" Role="HANGHOA" Multiplicity="1" />
+    <End Type="spaceTeamoracle.CHITIETHD" Role="CHITIETHD" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HANGHOA">
+        <PropertyRef Name="MAHH" />
+      </Principal>
+      <Dependent Role="CHITIETHD">
+        <PropertyRef Name="MAHH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HH_LOAI">
+    <End Type="spaceTeamoracle.LOAI" Role="LOAI" Multiplicity="1" />
+    <End Type="spaceTeamoracle.HANGHOA" Role="HANGHOA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOAI">
+        <PropertyRef Name="MALOAI" />
+      </Principal>
+      <Dependent Role="HANGHOA">
+        <PropertyRef Name="MALOAI" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HH_NCC">
+    <End Type="spaceTeamoracle.NHACUNGCAP" Role="NHACUNGCAP" Multiplicity="1" />
+    <End Type="spaceTeamoracle.HANGHOA" Role="HANGHOA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NHACUNGCAP">
+        <PropertyRef Name="MANCC" />
+      </Principal>
+      <Dependent Role="HANGHOA">
+        <PropertyRef Name="MANCC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HD_KH">
+    <End Type="spaceTeamoracle.KHACHHANG" Role="KHACHHANG" Multiplicity="0..1" />
+    <End Type="spaceTeamoracle.HOADON" Role="HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHACHHANG">
+        <PropertyRef Name="MAKH" />
+      </Principal>
+      <Dependent Role="HOADON">
+        <PropertyRef Name="MAKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HD_NV">
+    <End Type="spaceTeamoracle.NHANVIEN" Role="NHANVIEN" Multiplicity="1" />
+    <End Type="spaceTeamoracle.HOADON" Role="HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NHANVIEN">
+        <PropertyRef Name="MANV" />
+      </Principal>
+      <Dependent Role="HOADON">
+        <PropertyRef Name="MANV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
